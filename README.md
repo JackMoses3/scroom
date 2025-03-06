@@ -1,5 +1,5 @@
 # Scroom
-A scrum-based project management tool bootstrapped with ==create-t3-app==.
+A scrum-based project management tool bootstrapped with **create-t3-app**.
 
 It was built by the following team during the FIT2101 project at Monash University:
 
@@ -17,19 +17,7 @@ It was built by the following team during the FIT2101 project at Monash Universi
   - Database URL can be grabbed from your database provider, otherwise if hosting locally adjust the string to suit.
   - OAuth can be setup with Discord and Google
   - Add your email account details for magic links
-3. Run npm install
-4. Run npm run dev
+3. Run **npm install**
+4. Run **npm run dev**
 
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
-
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
-
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
-
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
-# scroom
-# scroom
