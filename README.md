@@ -1,20 +1,25 @@
-# Create T3 App
+# Scroom
+A scrum-based project management tool bootstrapped with ==create-t3-app==.
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+It was built by the following team during the FIT2101 project at Monash University:
 
-## What's next? How do I make an app with this?
+1. Lachlan MacPhee
+2. Isabella Moffat
+3. Jack Moses
+4. Raphael Schwalb
+5. Max Fergie
+6. Levi Kogan
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+# Development Environment Setup
+1. Create a MySQL database somewhere (or change the Prisma schema to Postgres, SQLite etc)
+2. Fill out the necessary environment variables using the example env
+  - Database URL can be grabbed from your database provider, otherwise if hosting locally adjust the string to suit.
+  - OAuth can be setup with Discord and Google
+  - Add your email account details for magic links
+3. Run npm install
+4. Run npm run dev
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
-
-## Learn More
 
 To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
 
